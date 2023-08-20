@@ -13,3 +13,5 @@ git branch -a
 git checkout
 
 git checkout -b <my-branch-name>
+
+git pull
